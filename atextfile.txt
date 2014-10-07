@@ -1,2 +1,9 @@
-I'm changing this text file in feature branch A!
-... aaand I'm doing more changes to this.
+Hello, this is a test text file!
+
+noLorem
+noipsum
+
+(Now also changing this file in the hotfix branch... uh-oh!)
+
+Whoop-dee-doo.
+
