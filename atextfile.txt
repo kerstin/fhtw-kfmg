@@ -1,6 +1,1 @@
-Hello, this is a test text file!
-
-Lorem
-ipsum
-
-Whoop-dee-doo.
+I'm changing this text file in feature branch A!
