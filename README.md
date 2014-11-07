@@ -1,3 +1,3 @@
 #KFMG - Konfigurationsmanagement
-Git excercises for uni. (; (Yay!)
+Git excercises for uni, yay! :trumpet:
 
