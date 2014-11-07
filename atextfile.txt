@@ -1,9 +1,0 @@
-Hello, this is a test text file!
-
-noLorem
-noipsum
-
-(Now also changing this file in the hotfix branch... uh-oh!)
-
-Whoop-dee-doo.
-
