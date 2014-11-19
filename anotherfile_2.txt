@@ -1,0 +1,7 @@
+This is another file.
+
+It has
+6 lines
+all in all.
+
+The 2nd and 6th are empty.
